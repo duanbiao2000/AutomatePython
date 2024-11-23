@@ -1,4 +1,5 @@
 # pyautogui
+
 `pip install pyautogui`
 <pre>
 import pyautogui
@@ -12,7 +13,7 @@ moveRel()
 position()
 click()
 mouseDown()
-mouseUp()
+mouseUp(git@github.com:duanbiao2000/AutomatePython.git)
 doubleClick()
 rightClick()
 middleClick()
@@ -21,7 +22,7 @@ dragRel()
 scroll()
 screenshot()
 pixelMathesColor()
-locateOnScreen()
+locateOnScreen(git@github.com:duanbiao2000/AutomatePython.git)
 typewrite()
 keyDown()
 keyUp()
